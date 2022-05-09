@@ -30,7 +30,7 @@ The theme is also MIT Licensed.
 View it here: [downing.io](https://downing.io/)
 
 Check out some of my other webpages at 
-[github.com/JasonD94/](https://github.com//kishore-penty/)
+[github.com//kishore-penty/](https://github.com//kishore-penty/)
 
 ##### NOTE:
 
